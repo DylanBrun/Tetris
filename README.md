@@ -1,7 +1,7 @@
 # Tetris
  Imitation du jeu Tetris codé en Python
 
- Développé par Quentin Fouet (qufouet@gmail.com) et moi.
+ Développé par Quentin Fouet (qufouet@gmail.com) et Dylan Brun.
 
  Langage utilisé: Python.
 
